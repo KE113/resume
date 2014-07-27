@@ -1,0 +1,30 @@
+/*!
+	Write Custom CSS here
+*/
+
+h1 {
+	font-family: 'Roboto Slab', serif;
+	
+}
+
+h2 {
+	font-family: 'Roboto Slab', serif;
+}
+
+h3 {
+	font-family: 'Roboto Slab', serif;
+	color: #3184CC
+}
+
+h4{
+	font-family: 'Roboto Slab', serif;
+	color: #FF967D
+}
+
+.right {
+	text-align: right;
+}
+
+.hobby {
+	text-align: center;
+}
